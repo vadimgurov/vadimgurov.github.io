@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dcd8ddc0.chunk.css",
+    "main.js": "/static/js/main.7f0e166f.chunk.js",
+    "main.js.map": "/static/js/main.7f0e166f.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.edbf5967.chunk.js": "/static/js/2.edbf5967.chunk.js",
+    "static/js/2.edbf5967.chunk.js.map": "/static/js/2.edbf5967.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e7b9c71dc39bcb83943174cc22e5a195.js": "/precache-manifest.e7b9c71dc39bcb83943174cc22e5a195.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.dcd8ddc0.chunk.css.map": "/static/css/main.dcd8ddc0.chunk.css.map",
+    "static/media/arrow.svg": "/static/media/arrow.a5d6bc2c.svg",
+    "static/media/friend.svg": "/static/media/friend.b5295dad.svg",
+    "static/media/game.svg": "/static/media/game.926a407d.svg",
+    "static/media/group.svg": "/static/media/group.0866743a.svg",
+    "static/media/remove.svg": "/static/media/remove.d65ee882.svg"
+  }
+}
